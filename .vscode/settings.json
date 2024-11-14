@@ -1,0 +1,11 @@
+{
+  "emeraldwalk.runonsave": {
+    "commands": [
+      {
+        "match": "\\.asm$",
+        "cmd": "workbench.action.tasks.build",
+        "runIn": "vscode"
+      }
+    ]
+  }
+}
